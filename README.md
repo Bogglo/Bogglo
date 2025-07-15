@@ -22,7 +22,7 @@ I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Ban
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app?user=Bogglo&theme=aura" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Bogglo&theme=github-dark&short_numbers=true"/>
   </a>
 </p>
 
