@@ -38,5 +38,5 @@ If you'd like to follow my journey or reach out about ideas, you’re welcome to
 ---
 
 <p align="center"><strong>
-“I code because I dream. Python is my language, and learning is my path.” 💫
+I code because I dream. Python is my language, and learning is my path. 💫
 </strong></p>
