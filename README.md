@@ -5,7 +5,7 @@
   🐍 Python Enthusiast | Dreaming in Code <br/>
   📧 E-mail: <a href="mailto:mdsohag.07412@gmail.com">mdsohag.07412@gmail.com</a> <br/>
       <a href="https://github.com/Bogglo">
-  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Image.png" alt="Python Logo" width="150"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" alt="Python Logo" width="151"/>
 </p>
 
 ---
