@@ -3,7 +3,10 @@
 <p align="center">
   📍 Class 8 Student from Lalmonirhat, Rangpur, Bangladesh <br/>
   🐍 Python Enthusiast | Dreaming in Code <br/>
-  📧 Email: <a href="mailto:mdsohag.07412@gmail.com">mdsohag.07412@gmail.com</a>
+  📧 E-mail: <a href="mailto:mdsohag.07412@gmail.com">mdsohag.07412@gmail.com</a> <br/>
+
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="45"/>
 </p>
 
 ---
@@ -21,7 +24,7 @@ I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Ban
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <a href="Https://github.com/Bogglo">
+  <a href="https://github.com/Bogglo">
     <img src="https://streak-stats.demolab.com?user=Bogglo&theme=github-dark&short_numbers=true"/>
   </a>
 </p>
