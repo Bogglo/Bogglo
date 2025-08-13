@@ -3,7 +3,7 @@
 <p align="center">
   📍 Class 8 Student from Lalmonirhat, Rangpur, Bangladesh <br/>
   🐍 Python Enthusiast | Dreaming in Code <br/>
-  📧 E-mail: <a href="mailto:mdsohag.07412@gmail.com">mdsohag.07412@gmail.com</a> <br/>
+  📧 E-mail: <a href="mailto:allbayjidbishwash@gmail.com">allbayjidbishwash@gmail.com</a> <br/>
       <a href="https://github.com/Bogglo">
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" alt="Python Logo" width="151"/>
 </p>
@@ -34,7 +34,7 @@ I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Ban
 
 If you'd like to follow my journey or reach out about ideas, you’re welcome to connect:
 
-📧 Email: mdsohag.07412@gmail.com  
+📧 Email: allbayjidbishwash@gmail.com  
 🌐 GitHub: [github.com/Bogglo](https://github.com/Bogglo)
 
 ---
