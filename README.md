@@ -1,4 +1,4 @@
-<h1 align="center">🌟 All Bayjid Bishwash 🌟</h1>
+<h1 align="center">🌟 All Bayejid Bishwash 🌟</h1>
 
 <p align="center">
   📍 Class 8 Student from Lalmonirhat, Rangpur, Bangladesh <br/>
