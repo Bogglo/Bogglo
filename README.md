@@ -37,8 +37,3 @@ If you'd like to follow my journey or reach out about ideas, you’re welcome to
 📧 Email: allbayjidbishwash@gmail.com  
 🌐 GitHub: [github.com/Bogglo](https://github.com/Bogglo)
 
----
-
-<p align="center"><strong>
-  Send me usdt on tron : TDVxy7UufadPuryZAeR5WDJ5PQmK7FJjr7
-</strong></p>
