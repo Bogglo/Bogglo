@@ -34,6 +34,6 @@ I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Ban
 
 If you'd like to follow my journey or reach out about ideas, you’re welcome to connect:
 
-📧 Email: allbayjidbishwash@gmail.com  
+📧 Email: allbayejidbishwash@protonmail.com 
 🌐 GitHub: [github.com/Bogglo](https://github.com/Bogglo)
 
