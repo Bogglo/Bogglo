@@ -12,7 +12,7 @@
 
 ### 👤 About Me
 
-I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Bangladesh. I currently study in Class 8 and enjoy learning Python. I explore technology through self-learning, creativity, and a deep interest in shaping ideas with code.
+I am **All Bayjid Bishwash**, a curious learner from Lalmonirhat in Rangpur, Bangladesh. I currently study in Class 9 and enjoy learning Python. I explore technology through self-learning, creativity, and a deep interest in shaping ideas with code.
 
 - 🐍 Focused on Python programming  
 - 🌐 Passionate about bringing technology closer to my language and culture  
