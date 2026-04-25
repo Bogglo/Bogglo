@@ -24,11 +24,11 @@ I love experimenting with **Python**, building small projects, and learning how 
 ## 🏆 Achievements & Cool Stuff
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bogglo&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://komarev.com/ghpvc/?username=Bogglo&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bogglo&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogglo&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,13 +51,14 @@ I love experimenting with **Python**, building small projects, and learning how 
   <img src="https://img.shields.io/badge/Code%20Mode-ON-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Always-Learning-yellow?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=for-the-badge&logo=buymeacoffee" />
+  <img src="https://img.shields.io/badge/Curiosity-Driven-orange?style=for-the-badge&logo=starship" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: [allbayejidbishwash@protonmail.com](mailto:allbayejidbishwash@protonmail.com)  
+- 📧 Email: [allbayejidbishwash@protonmail.com](mailto:AllBayejidBishwash@protonmail.com)  
 - 🌐 GitHub: [github.com/Bogglo](https://github.com/Bogglo)  
 
 ---
