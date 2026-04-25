@@ -111,7 +111,7 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 </p>
 
 <p align="center">
-  📧 <b>allbayejidbishwash@protonmail.com</b>
+  📧 <b>AllBayejidBishwash@protonmail.com</b>
 </p>
 
 ---
