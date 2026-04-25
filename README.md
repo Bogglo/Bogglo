@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=🐍+Python+Enthusiast;🤖+AI+%26+Copilot+Powered+Developer;🚀+Building+with+Code+%26+AI;💻+GitHub+Copilot+User;🌐+Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=🐍+Python+Enthusiast;🤖+AI+%26+Copilot+Powered+Developer;🚀+Building+with+Code+%26+AI;💻+GitHub+Copilot+User;📚+Student+Developer" />
 </p>
 
 ---
 
 ## 🪄 Who Am I?
 
-Hi, I'm **All Bayejid Bishwash** — a curious young developer exploring the intersection of **Python**, **AI**, and **Modern Development Tools**.  
+Hi, I'm **All Bayejid Bishwash** — a curious Class 9 student exploring the intersection of **Python**, **AI**, and **Modern Development Tools**.  
 
-I love experimenting with code, leveraging **GitHub Copilot** for smarter development, and exploring how AI can enhance my coding journey. Currently learning how to build efficient, intelligent solutions.
+I love experimenting with code, leveraging **GitHub Copilot** for smarter development, and exploring how AI can enhance my coding journey. Balancing studies with passion for building cool projects.
 
 - 🔭 Currently learning: Python, GitHub Copilot workflow, AI-assisted development  
 - 🤖 Using: **GitHub Copilot** for code generation, debugging & learning  
 - 🌱 Exploring: Web development, automation, AI integration  
-- 🎯 Goal: Build AI-powered projects and share knowledge with the community  
+- 🎯 Goal: Build meaningful projects while keeping up with studies  
 
 ---
 
@@ -84,19 +84,18 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
   <img src="https://img.shields.io/badge/Code%20Mode-ON-green?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Copilot%20Powered-AI%20Developer-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Always-Learning-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge&logo=bookmarklet" />
   <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=for-the-badge&logo=buymeacoffee" />
-  <img src="https://img.shields.io/badge/Future-Tech%20Ready-cyan?style=for-the-badge&logo=rocket" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2026 Goals (Balanced with Studies)
 
-- 🚀 Build 5+ AI-assisted projects
-- 🤖 Master GitHub Copilot workflows
-- 💻 Contribute to open-source AI projects
-- 📚 Learn advanced Python & Web Development
-- 🌐 Create AI-powered web applications
+- 🚀 Build 3+ meaningful AI-assisted projects
+- 🤖 Master GitHub Copilot workflow
+- 💻 Learn intermediate Python & Web Development
+- 📚 Maintain good academic grades + coding passion
 
 ---
 
@@ -104,17 +103,21 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 
 <p align="center">
   <a href="mailto:allbayejidbishwash@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/ProtonMail-8B7FFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://github.com/Bogglo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  📧 <b>allbayejidbishwash@protonmail.com</b>
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Code%20is%20Poetry;AI%20is%20the%20Future;I%20code%20smarter%20with%20Copilot;Keep%20Learning%20%26%20Building%20🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Code+is+Poetry;AI+is+the+Future;Balancing+Code+and+Studies;Keep+Learning+%26+Building+🚀" />
 </p>
 
 <p align="center">
