@@ -121,7 +121,7 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 </p>
 
 <p align="center">
-  ⭐️ <b>"Code is poetry, and AI helps me write it better."</b> ⭐️
+  ⭐️ <b>"Code is poetry, and i am the writer."</b> ⭐️
 </p>
 
 <p align="center">
