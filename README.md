@@ -68,13 +68,11 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 
 ## 📈 GitHub Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bogglo&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<!-- GitHub Stats Alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bogglo&theme=radical" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bogglo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Top Languages Alternative -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogglo&theme=radical" alt="Top Languages" />
 
 ---
 
@@ -125,5 +123,5 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 </p>
 
 <p align="center">
-  <i>Last Updated: 2026-04-25</i>
+  <i>Last Updated: 2026-05-02</i>
 </p>
