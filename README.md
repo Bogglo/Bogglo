@@ -100,7 +100,7 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:allbayejidbishwash@protonmail.com">
+  <a href="mailto:AllBayejidBishwash@protonmail.com">
     <img src="https://img.shields.io/badge/ProtonMail-8B7FFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://github.com/Bogglo">
@@ -108,9 +108,12 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
   </a>
 </p>
 
-<p align="center">
-  📧 <b>AllBayejidBishwash@protonmail.com</b>
-</p>
+---
+
+## 📧 Contact Information
+
+- **Primary Email:** AllBayejidBishwash@protonmail.com  
+- **Secondary Email:** AllBayejidBishwash@hotmail.com
 
 ---
 
@@ -123,5 +126,5 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 </p>
 
 <p align="center">
-  <i>Last Updated: 2026-05-02</i>
+  <i>Last Updated: 2026-05-03</i>
 </p>
