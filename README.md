@@ -112,8 +112,8 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 
 ## 📧 Contact Information
 
-- **Primary Email:** AllBayejidBishwash@protonmail.com  
-- **Secondary Email:** AllBayejidBishwash@hotmail.com
+- **Primary Email:** AllBayejidBishwash@hotmail.com
+- **Secondary Email:** AllBayejidBishwash@protonmail.com  
 
 ---
 
