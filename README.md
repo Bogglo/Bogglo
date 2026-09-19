@@ -76,11 +76,11 @@ I use GitHub to share projects, experiments, web applications, and useful tools.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bogglo&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGoofyDev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bogglo&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MrGoofyDev&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
