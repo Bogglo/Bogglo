@@ -1,43 +1,12 @@
-<h1 align="center">🚀 All Bayejid Bishwash</h1>
+<h1 align="center">🚀 MrGoofy</h1>
 
 <p align="center">
-  <b>Class 9 Student | Lalmonirhat, Rangpur, Bangladesh</b>  
+  <b>Developer | Building with Code, AI & Modern Tools</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=🐍+Python+Enthusiast;🤖+AI+%26+Copilot+Powered+Developer;🚀+Building+with+Code+%26+AI;💻+GitHub+Copilot+User;📚+Student+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFFF&center=true&vCenter=true&width=600&lines=🐍+Python+Enthusiast;🤖+AI+%26+Copilot+Powered+Developer;🚀+Building+with+Code+%26+AI;💻+Developer+Tools+Explorer" />
 </p>
-
----
-
-## 🪄 Who Am I?
-
-Hi, I'm **All Bayejid Bishwash** — a curious Class 9 student exploring the intersection of **Python**, **AI**, and **Modern Development Tools**.  
-
-I love experimenting with code, leveraging **GitHub Copilot** for smarter development, and exploring how AI can enhance my coding journey. Balancing studies with passion for building cool projects.
-
-- 🔭 Currently learning: Python, GitHub Copilot workflow, AI-assisted development  
-- 🤖 Using: **GitHub Copilot** for code generation, debugging & learning  
-- 🌱 Exploring: Web development, automation, AI integration  
-- 🎯 Goal: Build meaningful projects while keeping up with studies  
-
----
-
-## 🤖 AI & Copilot Arsenal
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-Enabled-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI%20Assisted-Development-purple?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/ChatGPT-Integration-green?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Code%20Gen-Automation-orange?style=for-the-badge&logo=codepen" />
-</p>
-
-### 💡 How I Use AI for Coding:
-- ✅ **GitHub Copilot** - Intelligent code suggestions & auto-completion
-- ✅ **ChatGPT** - Debugging, learning concepts, code reviews
-- ✅ **Code Generation** - Rapid prototyping with AI assistance
-- ✅ **Problem Solving** - Using AI to optimize algorithms and solutions
-- ✅ **Learning** - Understanding new frameworks and best practices faster
 
 ---
 
@@ -54,6 +23,15 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 
 ---
 
+## 🤖 AI & Development
+
+- GitHub Copilot for code assistance
+- AI-assisted debugging and development
+- Rapid prototyping and experimentation
+- Exploring web development and automation
+
+---
+
 ## 🏆 Achievements & Stats
 
 <p align="center">
@@ -66,65 +44,14 @@ I love experimenting with code, leveraging **GitHub Copilot** for smarter develo
 
 ---
 
-## 📈 GitHub Highlights
-
-<!-- GitHub Stats Alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bogglo&theme=radical" alt="GitHub Stats" />
-
-<!-- Top Languages Alternative -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bogglo&theme=radical" alt="Top Languages" />
-
----
-
-## 💪 Fun Badges
+## 🌐 Connect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20Mode-ON-green?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Copilot%20Powered-AI%20Developer-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Always-Learning-yellow?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Student-Developer-orange?style=for-the-badge&logo=bookmarklet" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=for-the-badge&logo=buymeacoffee" />
-</p>
-
----
-
-## 🎯 2026 Goals (Balanced with Studies)
-
-- 🚀 Build 3+ meaningful AI-assisted projects
-- 🤖 Master GitHub Copilot workflow
-- 💻 Learn intermediate Python & Web Development
-- 📚 Maintain good academic grades + coding passion
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:AllBayejidBishwash@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B7FFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Bogglo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:mrgoofy@tutamail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
 </p>
 
----
-
-## 📧 Contact Information
-
-- **Primary Email:** AllBayejidBishwash@hotmail.com
-- **Secondary Email:** AllBayejidBishwash@protonmail.com  
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FF00&center=true&vCenter=true&width=500&lines=Code+is+Poetry;AI+is+the+Future;Balancing+Code+and+Studies;Keep+Learning+%26+Building+🚀" />
-</p>
-
-<p align="center">
-  ⭐️ <b>"Code is poetry, and i am the writer."</b> ⭐️
-</p>
-
-<p align="center">
-  <i>Last Updated: 2026-05-03</i>
+  <i>Last Updated: 2026-09-19</i>
 </p>
